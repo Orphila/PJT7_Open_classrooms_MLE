@@ -346,7 +346,6 @@ python-slugify==8.0.1
 python-snappy==0.6.1
 python-socketio==5.8.0
 python-utils==3.9.0
-python=3.10.12
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms==2.3.2
