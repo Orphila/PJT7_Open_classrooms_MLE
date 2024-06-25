@@ -3,7 +3,7 @@ pillow==10.2.0
 numpy
 transformers
 torch
-orchvision
+torchvision
 datasets
 pandas
 matplotlib==3.8.2
