@@ -1,5 +1,5 @@
 streamlit
-PIL
+pillow==10.2.0
 numpy
 transformers
 torch
